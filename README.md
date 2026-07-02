@@ -1,7 +1,3 @@
-<h2 data-importer="text" align="left">Hi! My name is Ruslan and I'm a mf from Kazakhstan</h2>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="https://i.pinimg.com/1200x/85/d7/a0/85d7a0adc68c4b8200ada3d0f5ec7b75.jpg"  />
 </div>
