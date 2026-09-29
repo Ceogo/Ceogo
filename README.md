@@ -1,6 +1,3 @@
-###
-
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/1200x/d2/89/5f/d2895faf864db8b2ce0b5ce7032a43d3.jpg"  />
 
 ###
 
