@@ -1,5 +1,4 @@
 <img data-importer="image" align="right" height="200" src="https://i.pinimg.com/1200x/d2/89/5f/d2895faf864db8b2ce0b5ce7032a43d3.jpg"  />
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
